@@ -482,8 +482,9 @@ const App = () => {
       <div className="w-30">
         <div className="button_panel">
 
-          <div>
+          <div className="numberOfMoves">
             <h2>No Of Moves: {allMoves}</h2>
+            <button onClick={countMoves}>Number of moves</button>
           </div>
 
           <button onClick={moveU}>MOVE U</button>
@@ -504,7 +505,6 @@ const App = () => {
           <button onClick={moveB}>MOVE B</button>
           <button onClick={moveBInverse}>MOVE B'</button>
 
-          <button onClick={countMoves}>Number of moves</button>
           <button onClick={cube_start}>RESET</button>
           <button onClick={shuffle}>Shuffle</button>
           <br />
