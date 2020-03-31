@@ -20,7 +20,7 @@ const App = () => {
 
 
   const countMoves = () => {
-    setAllMoves(allMoves => allMoves + 1)
+    setAllMoves(move)
   }
 
   const cube_start = () => {
