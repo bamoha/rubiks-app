@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo
 
-https://5e838d36161c2071e6d8f6d0--rubiks-app.netlify.com/
+https://5e83934315dd88703d20380d--rubiks-app.netlify.com/
 
 ## Available Scripts
 
